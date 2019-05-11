@@ -1,0 +1,38 @@
+.h1, h1{
+    text-align: center;
+    color: white;
+    padding-top: 3%; 
+    padding-right: 20%;
+}
+
+.row, #row1{
+    background: black;
+}
+
+.col-2, col-2{
+    padding-left: 0%;
+}
+
+.row, #row2{
+    background: white;
+}
+
+#row4{
+    padding-left: 9%;
+}
+
+#row5{
+    padding-left: 9%;
+}
+
+#row6{
+    padding-left: 9%;
+}
+
+nav{ 
+    display:block; z-index:1111; position:relative; overflow:hidden; background:url(../images/header.jpg) bottom repeat-x; width:100%;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light{
+    
+}
